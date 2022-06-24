@@ -1,5 +1,7 @@
 # Brasil Turismo
  Olá, Devs! Este é o meu projeto integrador realizado a partir das orientações da Prof. Karen Santos. (DIO) onde pude realizar algumas aplicações do conceito de "containers", assim como suas propriedades aplicadas via CSS (display, flex-direction, flexflow, justify-content, etc.)
+ 
+ Segue link da page: https://brianmduarte.github.io/brianmduarteturismopage.github.io/
 
  Abaixo algumas anotações importantes sobre essa propriedade:
 
